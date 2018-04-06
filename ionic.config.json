@@ -1,0 +1,8 @@
+{
+  "name": "debtMate",
+  "app_id": "d6058a38",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
